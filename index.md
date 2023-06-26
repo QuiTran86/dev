@@ -1,27 +1,19 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: quitran86
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+This is the blog where I can share my knowledge to everybody
 
 ## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
+All features are comming    
 <br>
 Here's a new paragraph for you.  
 
 ## Features
-- Pagination
-    - Posts
-    - Categories
-- Posts
-- RSS
-- Syntax highlighting
-- Basic Mobile Support
-- SEO Plugin
+- SocialBlog
+- Crawler API for all channels
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [quitran8695@gmail.com](mailto:quitran8695@gmail.com).
